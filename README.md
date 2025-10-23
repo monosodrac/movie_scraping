@@ -40,6 +40,7 @@
 
 - [Python 3.10+](https://www.python.org/downloads/)
 - [pip](https://pip.pypa.io/en/stable/installation/)
+- [BeautifulSoup4](https://beautiful-soup-4.readthedocs.io/en/latest/)
 
 <h3 id="cloning">Cloning</h3>
 
